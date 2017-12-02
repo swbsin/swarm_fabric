@@ -1,6 +1,6 @@
 # swarm_fabric
 
-
+change docker daemon setting on all node
 
 
 Simple add this line into your Docker config file `/etc/default/docker`.
